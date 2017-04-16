@@ -1,0 +1,1 @@
+import './components/angular/App';
