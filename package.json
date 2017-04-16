@@ -48,7 +48,8 @@
   "yoshi": {
     "entry": {
       "react-client": "./react/client.js",
-      "angular-client": "./angular/client.js"
+      "angular-client": "./angular/client.js",
+      "angular-manifest": "./angular/manifest.js"
     }
   }
 }
