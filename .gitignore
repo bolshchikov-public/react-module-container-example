@@ -25,13 +25,20 @@ coverage
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
 build/Release
+dist
+target
 
 # Dependency directories
 node_modules
 jspm_packages
+maven
+typings
 
 # Optional npm cache directory
 .npm
 
 # Optional REPL history
 .node_repl_history
+
+velocity.private.data.js
+test/e2e/screenshots
