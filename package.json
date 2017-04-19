@@ -33,7 +33,7 @@
     "babel-polyfill": "^6.9.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
-    "react-module-container": "^1.0.534"
+    "react-module-container": "^1.0.558"
   },
   "babel": {
     "presets": [
